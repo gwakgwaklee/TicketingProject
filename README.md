@@ -77,5 +77,4 @@
 로컬 환경에서 아래 명령어를 통해 즉시 실행해 볼 수 있습니다.
 
 ```bash
-docker-compose up -d
-./gradlew bootRun
+예정
